@@ -1,0 +1,26 @@
+h1 {
+    
+    font-family: cursive;
+    font-size: larger;
+    font-style: italic;
+    text-indent: 5%;
+    text-transform: lowercase;
+}
+
+body {
+    background-color: aqua;
+    background-image: url(./images/gambar.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: bottom;
+    
+}
+
+
+
+
+p {
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    text-transform: uppercase;
+}
